@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/shahz/workspace/Chatbot/pircbot-1.5.0.zip"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/shahz/workspace/Chatbot/pircbot-1.5.0/pircbot-1.5.0/pircbot.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/shahz/Desktop/OWM JAPIs 2.5.0.5/OWM JAPIs 2.5.0.5/libs/owm-japis-2.5.0.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/shahz/Desktop/OWM JAPIs 2.5.0.5/OWM JAPIs 2.5.0.5/libs/owm-japis-2.5.0.5-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/shahz/Desktop/OWM JAPIs 2.5.0.5/OWM JAPIs 2.5.0.5/libs/owm-japis-2.5.0.5-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/shahz/Desktop/java-json.jar/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahz/Desktop/httpcomponents-client-4.5.3-bin/httpcomponents-client-4.5.3/lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
